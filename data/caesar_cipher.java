@@ -1,4 +1,4 @@
-// Документация: https://enoughdrama.gitbook.io/documentation
+// Documentation: https://enoughdrama.gitbook.io/documentation
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
